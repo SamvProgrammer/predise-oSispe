@@ -1,0 +1,11 @@
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\bin\Debug\diseñoMenu.exe.config
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\bin\Debug\diseñoMenu.exe
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\bin\Debug\diseñoMenu.pdb
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\obj\Debug\diseñoMenu.csprojResolveAssemblyReference.cache
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\obj\Debug\diseñoMenu.Form1.resources
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\obj\Debug\diseñoMenu.Properties.Resources.resources
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\obj\Debug\diseñoMenu.csproj.GenerateResource.Cache
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\obj\Debug\diseñoMenu.exe
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\obj\Debug\diseñoMenu.pdb
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\obj\Debug\diseñoMenu.frmFondo.resources
+c:\users\samv\documents\visual studio 2015\Projects\diseñoMenu\diseñoMenu\obj\Debug\diseñoMenu.frmMenu.resources
